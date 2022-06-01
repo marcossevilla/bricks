@@ -15,6 +15,16 @@ A few resources to get you started if this is your first brick template:
 - [Code generation with Mason Blog][3]
 - [Very Good Livestream: Felix Angelov Demos Mason][4]
 
+## Usage 💡
+
+```sh
+mason make dot_github
+
+# or 
+
+mason make dot_github --default_branch "trunk" --code_owners "@marcossevilla @torvalds"
+```
+
 [1]: https://github.com/felangel/mason
 [2]: https://github.com/felangel/mason/tree/master/packages/mason_cli#readme
 [3]: https://verygood.ventures/blog/code-generation-with-mason
