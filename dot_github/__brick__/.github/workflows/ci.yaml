@@ -11,9 +11,3 @@ jobs:
     steps:
       - name: noop
         run: echo 'noop'
-
-  pana:
-    runs-on: ubuntu-latest
-    steps:
-      - name: noop
-        run: echo 'noop'
