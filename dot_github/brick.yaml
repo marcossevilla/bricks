@@ -1,6 +1,6 @@
 name: dot_github
 description: A brick to generate base configuration for a .github folder.
-
+repository: https://github.com/marcossevilla/bricks
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
 # followed by an optional build number (separated by a +).
