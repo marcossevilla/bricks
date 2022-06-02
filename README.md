@@ -1,7 +1,5 @@
 # 🧱 Bricks
 
-[![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
-
 [Mason][mason_link] bricks I use to build projects.
 
 ## Getting started 🚀
@@ -34,5 +32,3 @@ mason add <BRICK_NAME> --git-url https://github.com/marcossevilla/bricks --git-p
 
 
 [mason_link]: https://github.com/felangel/mason
-[very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
-[very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
